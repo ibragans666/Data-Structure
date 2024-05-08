@@ -118,3 +118,9 @@ ll.append(6)
 
 print('Linked List before remove: ')
 ll.print_list()
+
+print('\nRemove node: ')
+print(ll.remove(2).value)
+print('LL after remove() in middle: ')
+ll.print_list()
+
