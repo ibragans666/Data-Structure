@@ -1,5 +1,5 @@
 # Data-Structure
-this repository will discuss all about data structure
+this repository will discuss all about data structure with python
 
 it's my fault
 
